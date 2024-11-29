@@ -665,6 +665,17 @@
   margin-top: 5px;
 }
 
+.i18n {
+  position: relative;
+  right: 15px;
+}
+
+.i18n .lang{
+  border-radius: 20%;
+  background-color: #6244C5;
+  color: #FFFFFF;
+}
+
 @media (max-width: 992px) {
   ul.timeline:before {
     left: 90px;
